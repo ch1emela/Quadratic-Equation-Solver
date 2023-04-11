@@ -1,0 +1,15 @@
+body{
+  text-align:center;
+}
+h1{
+  text-color: blue;
+}
+#a, #b, #c{
+  width:20px;
+  border-radius:50px;
+  margin:20;
+}
+#btn{
+  border-radius:50px;
+  width:40px;
+}
